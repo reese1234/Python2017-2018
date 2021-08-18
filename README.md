@@ -1,3 +1,3 @@
 # 2017-2018 Python Projects
-These are some of my Python projects from 2017-2018.
-I'm not putting anymore in this repository.
+**Note:** This repository will not be updated.
+These are my Python projects from 2017-2018. They were lessons from a beginners' python book.
